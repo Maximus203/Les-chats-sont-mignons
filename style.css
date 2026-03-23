@@ -183,6 +183,7 @@ footer {
   Mise a jour optionnelle (decommenter pour ameliorer le style):
   Cette version ajoute des empreintes animees tres discretes en fond.
 
+*/
 .party-paws::before {
   content: "paw paw paw paw paw paw paw paw paw paw";
   position: fixed;
@@ -205,7 +206,6 @@ footer {
     transform: translateY(-70px);
   }
 }
-*/
 
 @media (max-width: 900px) {
   .card {
